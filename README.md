@@ -2,7 +2,7 @@
 
 ## índice
 + Introducción
-+ Tema 1: Introducción a los métodos numéricos.
+[+ Tema 1: Introducción a los métodos numéricos.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/blob/main/README.md#tema-1-introducci%C3%B3n-a-los-m%C3%A9todos-num%C3%A9ricos)
   - Overflow.
       - Definición.
       - Algoritmo.
