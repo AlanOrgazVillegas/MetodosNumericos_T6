@@ -112,11 +112,57 @@
 # Introducción
 Los métodos numéricos son técnicas matemáticas que permiten encontrar soluciones aproximadas a problemas complejos que no pueden resolverse de manera analítica. Estos métodos son fundamentales en diversas áreas de la ingeniería, la física, la economía y otras disciplinas que requieren soluciones precisas a problemas matemáticos complicados. En este repositorio, exploraremos una variedad de métodos numéricos, desde los más básicos hasta los más avanzados, implementados en el lenguaje de programación Java.
 
-Este repositorio está organizado en temas que abarcan diferentes áreas de los métodos numéricos. A continuación, se describe brevemente el contenido de cada tema:
+********************************************************************************************************************************************
 
 # Tema 1: Introducción a los Métodos Numéricos
 Este primer tema proporciona una base sólida sobre conceptos esenciales como el overflow, el redondeo y el truncamiento. Se define cada concepto, se explica el algoritmo correspondiente y se proporciona código en Java junto con ejercicios prácticos.
-+ Overflow.
+# Overflow.
+## Definición
+El overflow (desbordamiento) es un fenómeno que ocurre en los cálculos numéricos cuando un resultado excede el rango máximo que puede ser representado por el tipo de dato utilizado en un sistema informático. Esto puede provocar resultados incorrectos y comportamientos inesperados en los programas.
+
+## Algoritmo
+1. Definir los límites del tipo de dato.
+2. Verificar las condiciones de overflow antes de realizar la operación.
+3. Implementar la lógica para lanzar una excepción o manejar el overflow si se detecta.
+
+```
+function safeAdd(x, y):
+    if x > 0 and y > 0 and x > MAX_INT - y:
+        throw OverflowException("Overflow positivo detectado")
+    else if x < 0 and y < 0 and x < MIN_INT - y:
+        throw OverflowException("Overflow negativo detectado")
+    else:
+        return x + y
+
+function main():
+    a = MAX_INT
+    b = 1
+    
+    try:
+        result = safeAdd(a, b)
+        print("Resultado de la suma: " + result)
+    except OverflowException as e:
+        print("Overflow detectado: " + e.message)
+```
+## Código en Java
+```
+public class Overflow {
+    public static void main(String[] args) {
+        // Ejemplo de desbordamiento en operaciones aritméticas con enteros
+        int a = Integer.MAX_VALUE; // Valor máximo para un entero
+        int b = 1; // Incremento en 1
+
+        // Intentamos incrementar el valor máximo de un entero
+        int suma = a + b;
+
+        // Imprimimos el resultado
+        System.out.println("Resultado de la suma: " + suma); // Se produce un desbordamiento
+    }
+}
+```
+### Salida
+![Captura de pantalla (374)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/a69eec35-5e0a-4215-b11b-0db8513c2609)
+
 + Redondeo.
 + Truncamiento.
 
