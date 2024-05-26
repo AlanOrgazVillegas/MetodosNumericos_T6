@@ -1,8 +1,8 @@
 # Métodos Númericos
 
 ## índice
- + Introducción
- + Tema 1
++ Introducción
++ Tema 1
   - Overflow.
       - Definición.
       - Algoritmo.
