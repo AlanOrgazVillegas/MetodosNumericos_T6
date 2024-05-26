@@ -110,3 +110,5 @@
       - Ejercicios.
 
 # Introducción
+Los métodos numéricos son técnicas matemáticas que permiten encontrar soluciones aproximadas a problemas complejos que no pueden resolverse de manera analítica. Estos métodos son fundamentales en diversas áreas de la ingeniería, la física, la economía y otras disciplinas que requieren soluciones precisas a problemas matemáticos complicados. En este repositorio, exploraremos una variedad de métodos numéricos, desde los más básicos hasta los más avanzados, implementados en el lenguaje de programación Java.
+
