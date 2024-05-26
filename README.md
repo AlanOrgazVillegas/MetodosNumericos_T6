@@ -1,31 +1,54 @@
 # Métodos Númericos
 
 ## índice
-+ Introducción
-+ Tema 1
+### + Introducción
+### + Tema 1
   - Overflow.
       - Definición.
+      - Algoritmo.
+      - Código en Java.
+      - Ejercicios.
   - Redondeo.
+      - Definición.
+      - Algoritmo.
+      - Código en Java.
+      - Ejercicios.
   - Truncamiento.
-+ Tema 2
+      - Definición.
+      - Algoritmo.
+      - Código en Java.
+      - Ejercicios.
+### + Tema 2
   - Bisección.
+      - Definición.
+      - Algoritmo.
+      - Código en Java.
+      - Ejercicios.
   - Regla falsa.
+      - Definición.
+      - Algoritmo.
+      - Código en Java.
+      - Ejercicios.
   - Secante.
-+ Tema 3
+      - Definición.
+      - Algoritmo.
+      - Código en Java.
+      - Ejercicios.
+### + Tema 3
   - Eliminación Gaussiana.
   - Gauss-Jordan.
   - Gauss-Seidel.
   - Jacobi.
-+ Tema 4
+### + Tema 4
   - Simpson 1/3.
   - Simpson 3/8.
   - Trapecio.
-+ Tema 5
+### + Tema 5
   - Interpolación cuadrática.
   - Interpolación lineal.
   - Lagrange.
   - Newton.
-+ Tema 6
+### + Tema 6
   - Euler.
   - Runge-Kutta.
   - Taylor.
