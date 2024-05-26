@@ -113,6 +113,8 @@
 Los métodos numéricos son técnicas matemáticas que permiten encontrar soluciones aproximadas a problemas complejos que no pueden resolverse de manera analítica. Estos métodos son fundamentales en diversas áreas de la ingeniería, la física, la economía y otras disciplinas que requieren soluciones precisas a problemas matemáticos complicados. En este repositorio, exploraremos una variedad de métodos numéricos, desde los más básicos hasta los más avanzados, implementados en el lenguaje de programación Java.
 
 ********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
 
 # Tema 1: Introducción a los Métodos Numéricos
 Este primer tema proporciona una base sólida sobre conceptos esenciales como el overflow, el redondeo y el truncamiento. Se define cada concepto, se explica el algoritmo correspondiente y se proporciona código en Java junto con ejercicios prácticos.
@@ -161,45 +163,262 @@ public class Overflow {
 }
 ```
 ### Salida
-![Captura de pantalla (374)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/a69eec35-5e0a-4215-b11b-0db8513c2609)
+![Captura de pantalla (374)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/6f3ccc8e-502d-4196-b214-1b5e7ae937a9)
+## Ejercicios
 
-+ Redondeo.
-+ Truncamiento.
+
+********************************************************************************************************************************************
+
+# Redondeo.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Truncamiento.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
 
 # Tema 2: Métodos de Solución de Ecuaciones
 Aquí se exploran técnicas para resolver ecuaciones no lineales. Los métodos de bisección, regla falsa y secante se presentan con sus definiciones, algoritmos detallados, implementaciones en Java y ejercicios prácticos.
-+ Bisección.
-+ Regla Falsa.
-+ Secante.
+# Bisección.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Regla Falsa.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Secante.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
 
 # Tema 3: Métodos de Solución de Sistemas de Ecuaciones
 Este tema aborda métodos para resolver sistemas de ecuaciones lineales. Se incluyen la eliminación gaussiana, Gauss-Jordan, Gauss-Seidel y Jacobi.
-+ Eliminación Gaussiana.
-+ Gauss-Jordan.
-+ Gauss-Seidel.
-+ Jacobi.
+# Eliminación Gaussiana.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Gauss-Jordan.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Gauss-Seidel.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Jacobi.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
 
 # Tema 4: Diferenciación e Integración Numérica
 Aquí se cubren métodos para la diferenciación e integración de funciones. Se incluyen los métodos de Simpson 1/3, Simpson 3/8 y el método del trapecio.
 
-+ Simpson 1/3.
-+ Simpson 3/8.
-+ Trapecio.
+# Simpson 1/3.
+## Definición.
 
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Simpson 3/8.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+********************************************************************************************************************************************
+# Trapecio.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
 # Tema 5: Interpolación y Ajuste de Funciones
 En este tema se estudian técnicas de interpolación y ajuste de funciones, como la interpolación cuadrática, lineal, de Lagrange y de Newton.
 
-+ Interpolación Cuadrática.
-+ Interpolación Lineal.
-+ Lagrange.
-+ Newton.
+# Interpolación Cuadrática.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Interpolación Lineal.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Lagrange.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Newton.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+********************************************************************************************************************************************
+********************************************************************************************************************************************
 
 # Tema 6: Solución de Ecuaciones Diferenciales
 Finalmente, se presentan métodos numéricos para la solución de ecuaciones diferenciales, incluyendo los métodos de Euler, Runge-Kutta y Taylor.
 
-+ Euler.
-+ Runge-Kutta.
-+ Taylor.
+# Euler.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Runge-Kutta.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
+
+********************************************************************************************************************************************
+# Taylor.
+## Definición.
+
+## Algoritmo.
+
+## Código en Java.
+
+### Salida
+
+## Ejercicios
 
 ********************************************************************************************************************************************
 
