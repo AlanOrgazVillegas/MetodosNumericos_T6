@@ -8,102 +8,102 @@
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Redondeo.
+  - [Redondeo.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#redondeo)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Truncamiento.
+  - [Truncamiento.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#truncamiento)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-+ Tema 2: Métodos de solución de ecuaciones.
-  - Bisección.
++ [Tema 2: Métodos de solución de ecuaciones.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#tema-2-m%C3%A9todos-de-soluci%C3%B3n-de-ecuaciones)
+  - [Bisección.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#bisecci%C3%B3n)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Regla falsa.
+  - [Regla falsa.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#regla-falsa)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Secante.
+  - [Secante.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#secante)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-+ Tema 3: Métodos de solución de sistemas de ecuaciones.
-  - Eliminación Gaussiana.
++ [Tema 3: Métodos de solución de sistemas de ecuaciones.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#tema-3-m%C3%A9todos-de-soluci%C3%B3n-de-sistemas-de-ecuaciones)
+  - [Eliminación Gaussiana.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#eliminaci%C3%B3n-gaussiana)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Gauss-Jordan.
+  - [Gauss-Jordan.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#gauss-jordan)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Gauss-Seidel.
+  - [Gauss-Seidel.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#gauss-seidel)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Jacobi.
+  - [Jacobi.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#jacobi)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-+ Tema 4: Diferenciación e integración numérica.
-  - Simpson 1/3.
++ [Tema 4: Diferenciación e integración numérica.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#tema-4-diferenciaci%C3%B3n-e-integraci%C3%B3n-num%C3%A9rica)
+  - [Simpson 1/3.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#simpson-13)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Simpson 3/8.
+  - [Simpson 3/8.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#simpson-38)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Trapecio.
+  - [Trapecio.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#trapecio)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-+ Tema 5: Interpolación y ajuste de funciones.
-  - Interpolación cuadrática.
++ [Tema 5: Interpolación y ajuste de funciones.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#tema-5-interpolaci%C3%B3n-y-ajuste-de-funciones)
+  - [Interpolación cuadrática.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#interpolaci%C3%B3n-cuadr%C3%A1tica)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Interpolación lineal.
+  - [Interpolación lineal.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#interpolaci%C3%B3n-lineal)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Lagrange.
+  - [Lagrange.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#lagrange)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Newton.
+  - [Newton.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#newton)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-+ Tema 6: Solución de ecuaciones diferenciales.
-  - Euler.
++ [Tema 6: Solución de ecuaciones diferenciales.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#tema-6-soluci%C3%B3n-de-ecuaciones-diferenciales)
+  - [Euler.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#euler)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Runge-Kutta.
+  - [Runge-Kutta.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#runge-kutta)
       - Definición.
       - Algoritmo.
       - Código en Java.
       - Ejercicios.
-  - Taylor.
+  - [Taylor.](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main#taylor)
       - Definición.
       - Algoritmo.
       - Código en Java.
@@ -171,27 +171,120 @@ public class Overflow {
 
 # Redondeo.
 ## Definición.
-
+El redondeo es una técnica utilizada en aritmética y computación para reducir el número de cifras significativas de un número, ajustándolo al valor más cercano con una precisión especificada. Este proceso es comúnmente empleado para manejar la representación de números en sistemas digitales, donde es necesario limitar la cantidad de dígitos debido a restricciones de memoria o precisión.
 ## Algoritmo.
+1. Obtener el número decimal a redondear.
+2. Separar la parte entera y la parte fraccionaria del número.
+3. Evaluar la parte fraccionaria:
+  Si la parte fraccionaria es mayor o igual a 0.5, aumentar la parte entera en 1.
+  Si la parte fraccionaria es menor a 0.5, mantener la parte entera sin cambios.
+4. El resultado es la parte entera ajustada según el paso anterior.
+   
+```
+function roundToNearestInteger(number):
+    // Separar la parte entera y la parte fraccionaria
+    integerPart = floor(number)
+    fractionalPart = number - integerPart
 
+    // Evaluar la parte fraccionaria
+    if fractionalPart >= 0.5:
+        return integerPart + 1
+    else:
+        return integerPart
+
+function main():
+    number = 3.7
+    result = roundToNearestInteger(number)
+    print("Número original: " + number)
+    print("Número redondeado: " + result)
+
+```
 ## Código en Java.
+```
+public class Redondeo {
+    public static void main(String[] args) {
+        // Ejemplo de error de redondeo en suma
+        double num1 = 0.1;
+        double num2 = 0.2;
+        double suma = num1 + num2;
 
+        System.out.println("Suma: " + suma); // Imprime 0.30000000000000004
+
+        // Ejemplo de error de redondeo en multiplicación
+        double num3 = 1.0 / 3.0;
+        double resultado = num3 * 3;
+
+        System.out.println("Resultado: " + resultado); // Imprime 0.9999999999999999
+    }
+}
+```
 ### Salida
-
+![Captura de pantalla (375)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/f554669d-c8f3-4c87-932a-f8e4a9af4533)
 ## Ejercicios
+[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%201/Redondeo)
 
 ********************************************************************************************************************************************
 # Truncamiento.
 ## Definición.
-
+El truncamiento es una técnica utilizada en aritmética y computación para reducir el número de cifras decimales de un número sin redondear. Se elimina la parte fraccionaria del número, acercándolo al valor entero más cercano hacia cero. Este proceso es útil en situaciones donde se requiere un valor entero sin importar el valor de la parte fraccionaria.
 ## Algoritmo.
+1. Obtener el número decimal a truncar.
+2. Separar la parte entera del número.
+3. Eliminar la parte fraccionaria del número.
+4. El resultado es la parte entera del número.
+   
+```
+function truncateNumber(number):
+    // Separar la parte entera
+    integerPart = floor(abs(number))
 
+    // Restaurar el signo del número original
+    if number < 0:
+        return -integerPart
+    else:
+        return integerPart
+
+function main():
+    number = 3.7
+    result = truncateNumber(number)
+    print("Número original: " + number)
+    print("Número truncado: " + result)
+
+    number = -3.7
+    result = truncateNumber(number)
+    print("Número original: " + number)
+    print("Número truncado: " + result)
+```
 ## Código en Java.
+```
+public class Truncamiento {
+    public static void main(String[] args) {
+        // Ejemplo de error de truncamiento en la aproximación de una serie infinita
+        int n = 10; // Número de términos a considerar en la serie
+        double x = 0.5; // Valor en el que evaluamos la serie
+        double suma = 0.0;
 
+        for (int i = 0; i < n; i++) {
+            suma += Math.pow(-1, i) * Math.pow(x, 2 * i + 1) / factorial(2 * i + 1);
+        }
+
+        System.out.println("Aproximación de la serie: " + suma); // Imprime un valor aproximado
+    }
+
+    // Método para calcular el factorial de un número
+    public static int factorial(int n) {
+        int fact = 1;
+        for (int i = 1; i <= n; i++) {
+            fact *= i;
+        }
+        return fact;
+    }
+}
+```
 ### Salida
-
+![Captura de pantalla (376)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/488313b6-a23e-4347-9aae-8abcdfb1cab3)
 ## Ejercicios
-
+[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%201/Truncamiento)
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
 ********************************************************************************************************************************************
@@ -200,15 +293,132 @@ public class Overflow {
 Aquí se exploran técnicas para resolver ecuaciones no lineales. Los métodos de bisección, regla falsa y secante se presentan con sus definiciones, algoritmos detallados, implementaciones en Java y ejercicios prácticos.
 # Bisección.
 ## Definición.
-
+El método de bisección es un método numérico utilizado para encontrar las raíces de una función continua. Consiste en dividir repetidamente un intervalo en dos partes y seleccionar el subintervalo en el que existe un cambio de signo de la función, lo que indica la presencia de una raíz. Este proceso se repite hasta que se alcanza un intervalo suficientemente pequeño, proporcionando una aproximación de la raíz.
 ## Algoritmo.
+1. Definir la función ( f(x) ) y los extremos del intervalo ([a, b]) tal que ( f(a) \cdot f(b) < 0 ).
+2. Calcular el punto medio ( c = \frac{a + b}{2} ).
+3. Evaluar ( f(c) ).
+Si ( f(c) = 0 ) o el intervalo es suficientemente pequeño (criterio de convergencia), entonces ( c ) es la raíz.
+Si ( f(a) \cdot f(c) < 0 ), entonces la raíz está en el intervalo ([a, c]). De lo contrario, la raíz está en ([c, b]).
+4. Repetir el proceso con el nuevo intervalo hasta que se cumpla el criterio de convergencia.
 
+```
+function bisection(f, a, b, epsilon):
+    if f(a) * f(b) >= 0:
+        throw Exception("El intervalo no contiene una raíz")
+
+    while (b - a) / 2 > epsilon:
+        c = (a + b) / 2
+        if f(c) == 0:
+            return c // La raíz exacta es encontrada
+        if f(a) * f(c) < 0:
+            b = c
+        else:
+            a = c
+
+    return (a + b) / 2 // Aproximación de la raíz
+
+function main():
+    // Definir la función f(x)
+    function f(x):
+        return x^3 - x - 2
+
+    // Definir el intervalo inicial [a, b] y la tolerancia epsilon
+    a = 1
+    b = 2
+    epsilon = 0.0001
+
+    try:
+        root = bisection(f, a, b, epsilon)
+        print("La raíz aproximada es: " + root)
+    except Exception as e:
+        print(e.message)
+```  
 ## Código en Java.
+```
+/*
+ * Descripcion del ejemplo
 
+    Función: x^3+4x^2-10    Limites: A:1 B:2    Error: 0.0001    Iteraciones: 6
+
+    Implementacion (resultado a 5 cifras significativas)
+
+    1.36719
+ * 
+ */
+
+import java.util.Scanner;
+public class Biseccion {
+    public static void main(String[] args) {
+        System.out.println(" EJECICIO 1 METODO DE BISECCION ");
+        // Crear un objeto Scanner para leer la entrada del usuario
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.print("Ingrese el límite inferior: ");
+        double a = scanner.nextDouble();
+
+        System.out.print("Ingrese el límite superior: ");
+        double b = scanner.nextDouble();
+
+        // Pedir al usuario que ingrese el número máximo de iteraciones
+        System.out.print("Ingrese el número máximo de iteraciones: ");
+        int maxIter = scanner.nextInt();
+
+        // Pedir al usuario que ingrese el valor de tolerancia (error aceptable)
+        System.out.print("Ingrese el valor de tolerancia: ");
+        // Leer el valor de tolerancia (error aceptable) desde el usuario
+        double tol = scanner.nextDouble();
+
+        // Encontrar la raíz de la función usando el método de bisección
+        double root = bisectionMethod(a, b, maxIter, tol);
+
+        // Imprimir el resultado
+        System.out.printf("La raíz de la ecuación es: %.5f%n", root);
+        /*
+         Esta parte %.5f%n sirve para dejar el numero decimal con 5 digitos despues del punto decimal
+        */
+    }
+
+    // Definir el método de bisección
+    public static double bisectionMethod(double a, double b, int maxIter, double tol) {
+        // Verificar si la función cambia de signo en el intervalo
+        if ((func(a) * func(b)) > 0) {
+            System.out.println("El método no puede encontrar una raíz en el intervalo.");
+            return -1;
+        }
+
+        double c;
+        // repetir hasta que se alcance el número máximo de iteraciones
+        for (int i = 0; i < maxIter; i++) {
+            // Calcular el punto medio del intervalo
+            c = (a + b) / 2;
+            // Verificar si el punto medio está dentro de la tolerancia (error aceptable)
+            if (Math.abs(func(c)) < tol) {
+                // Devolver el punto medio como la raíz
+                return c;
+            }
+            // Actualizar el intervalo
+            if (func(a) * func(c) < 0) {
+                b = c;
+            } else {
+                a = c;
+            }
+        }
+        // Devolver el punto medio del intervalo final como la raíz
+        return (a + b) / 2;
+    }
+
+    // Definir la función para encontrar la raíz de
+    public static double func(double x) {
+        return Math.pow(x, 3) + 4 * Math.pow(x, 2) - 10;
+    }
+}
+```
 ### Salida
+![Captura de pantalla (377)](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/assets/147757830/c239f15a-eaf3-4ef5-a441-d196be505e15)
 
 ## Ejercicios
-
+[Enlace de ejercicios](https://github.com/AlanOrgazVillegas/MetodosNumericos_T6/tree/main/Tema%202/Bisecci%C3%B3n)
 ********************************************************************************************************************************************
 # Regla Falsa.
 ## Definición.
